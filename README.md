@@ -8,4 +8,5 @@ Inaccurate urban positioning has been an ongoing problem with satellite navigati
 
 ![录制_2023_11_01_10_56_33_516](https://github.com/Jia-le-wang/Useful-tools-and-software-for-high-precision-positioning-of-low-cost-smart-devices/assets/49149409/14b6b590-676f-40d5-a11a-d99319bad58e)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-We will continue to upload the relevant processing scripts, data sets and software to this GITHUB repository after we have completed the relevant processing scripts, data sets and software. If you have any questions during use, please do not hesitate to contact: wangjialea@gmail.com
+As we refine the tools, we will continue to upload more useful processing scripts, datasets, and software to the GITHUB repository. We hope that our work can provide some references for relevant interested researchers in pedestrian navigation, indoor and outdoor seamless positioning, and integrated navigation.
+. If you have any questions during use, please do not hesitate to contact: wangjialea@gmail.com
