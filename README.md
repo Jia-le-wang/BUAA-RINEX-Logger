@@ -13,7 +13,7 @@ Recently, we focused on the big trouble that smartphones are having in urban nav
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The following is a case of pedestrian 3D positioning, where high-precision indoor and outdoor seamless positioning is achieved by combining 3DMA PPP with pedestrian inertial positioning:
-![录制_2023_11_04_22_46_42_514](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/cac30cf0-48bb-4bba-9e07-88e40823e655)
+![录制_2023_11_04_22_46_42_514](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/8489d172-cda1-4df3-aa02-a19cd8d5b243)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As we refine the tools, we will continue to upload more useful processing scripts, datasets, and software to the GITHUB repository. We hope that our work can provide some references for relevant interested researchers in pedestrian navigation, indoor and outdoor seamless positioning, and integrated navigation.
