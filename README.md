@@ -10,6 +10,11 @@ When using the BUAA RINEX Logger, open the Location, mearement, and RINEX button
 Recently, we focused on the big trouble that smartphones are having in urban navigation! Inaccurate urban positioning has been an ongoing problem with satellite navigation, prompting many attempts at solutions and revealing deep-rooted difficulties. Using an accurate 3D building model database, asymmetric NLOS propagation is modeled to correct for NLOS pseudo-range errors, thereby reducing the positioning error of the phone by more than 50%. We recommend that researchers consider using the 3D city model in the future, and here is an experimental case to demonstrate the powerful advantages of 3DMA:
 
 ![录制_2023_11_01_10_56_33_516](https://github.com/Jia-le-wang/Useful-tools-and-software-for-high-precision-positioning-of-low-cost-smart-devices/assets/49149409/14b6b590-676f-40d5-a11a-d99319bad58e)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The following is a case of pedestrian 3D positioning, where high-precision indoor and outdoor seamless positioning is achieved by combining 3DMA PPP with pedestrian inertial positioning:
+![Uploading 录制_2023_11_04_22_00_31_322 (1).gif…]()
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As we refine the tools, we will continue to upload more useful processing scripts, datasets, and software to the GITHUB repository. We hope that our work can provide some references for relevant interested researchers in pedestrian navigation, indoor and outdoor seamless positioning, and integrated navigation.
 If you have any questions during use, please do not hesitate to contact: wangjialea@gmail.com
