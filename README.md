@@ -14,7 +14,8 @@ Recently, we focused on the big trouble that smartphones are having in urban nav
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The following is an experiment conducted in Beijing's harsh urban canyon environment, where the green dots represent LOS satellites, the red dots represent NLOS satellites, and the yellow dots represent to-be-determined (TBD) satellites. Because of the tall and dense buildings on both sides, there are only a few satellite signals available. Through the 3DMA PPP algorithm, the positioning accuracy of the Xiaomi Mi8 smartphone and the low-cost septentrio receiver has been improved by more than 50%.
 
-![mi8b_Satvis_polar_dyn21](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/2fbfe3e9-bd65-4c20-9626-7dfdd3971373)
+![mi8b_Satvis_polar_dyn21](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/2fbfe3e9-bd65-4c20-9626-7dfdd3971373) ![SEPT_Satvis_polar_dyn21](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/efbc7f82-1d29-48fc-87a8-bba1e755cf93)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Our latest powerful adaptive zero-speed detection algorithm can fully support various pedestrian gait patterns such as walking, running, elevators, escalators, and up and down stairs.The following is a case of pedestrian 3D positioning, where high-precision indoor and outdoor seamless positioning is achieved by combining 3DMA PPP with pedestrian inertial positioning:
 
