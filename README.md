@@ -12,9 +12,10 @@ Recently, we focused on the big trouble that smartphones are having in urban nav
 ![录制_2023_11_01_10_56_33_516](https://github.com/Jia-le-wang/Useful-tools-and-software-for-high-precision-positioning-of-low-cost-smart-devices/assets/49149409/14b6b590-676f-40d5-a11a-d99319bad58e)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The following is an experiment conducted in Beijing's harsh urban canyon environment, where the green dots represent LOS satellites, the red dots represent NLOS satellites, and the yellow dots represent to-be-determined (TBD) satellites. Because of the tall and dense buildings on both sides, there are only a few satellite signals available. Through the 3DMA PPP algorithm, the positioning accuracy of the Xiaomi Mi8 smartphone and the low-cost septentrio receiver has been improved by more than 50%.
+The following is an experiment conducted in Beijing's harsh urban canyon environment, where the green dots represent LOS satellites, the red dots represent NLOS satellites, and the yellow dots represent Edge satellites. Because of the tall and dense buildings on both sides, there are only a few satellite signals available. Through the 3DMA PPP algorithm, the positioning accuracy of the Xiaomi Mi8 smartphone and the low-cost septentrio receiver has been improved by more than 50%.
 
-![Honeycam 2023-11-15 17-38-16 (2)](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/1ed2e9d9-d4b6-44ce-8c61-a7218f38ef42)
+![gif_mi8w_dyn2](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/753c300a-f4a6-42d9-8fdf-7edfa7571382)![gif_SEPT_dyn2](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/df6522ea-9376-41dc-ad7e-048bf1f24ece)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Our latest powerful adaptive zero-speed detection algorithm can fully support various pedestrian gait patterns such as walking, running, elevators, escalators, and up and down stairs.The following is a case of pedestrian 3D positioning, where high-precision indoor and outdoor seamless positioning is achieved by combining 3DMA PPP with pedestrian inertial positioning:
