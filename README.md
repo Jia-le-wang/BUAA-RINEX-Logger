@@ -14,7 +14,7 @@ Recently, we focused on the big trouble that smartphones are having in urban nav
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The following is an experiment conducted in Beijing's harsh urban canyon environment, where the green dots represent LOS satellites, the red dots represent NLOS satellites, and the yellow dots represent Edge satellites. Because of the tall and dense buildings on both sides, there are only a few satellite signals available. Through the 3DMA PPP algorithm, the positioning accuracy of the Xiaomi Mi8 smartphone and the low-cost septentrio receiver has been improved by more than 50%.
 
-![gif_SEPT_dyn2](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/063ef327-3289-4092-af72-8c3207925638) ![gif_mi8w_dyn2](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/e1948f0c-df76-44c2-b4c1-0f028dcb485d)
+![Honeycam 2023-12-04 13-52-18 (2)](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/29d0c963-2f36-4709-b5b5-960f71ea4450)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
