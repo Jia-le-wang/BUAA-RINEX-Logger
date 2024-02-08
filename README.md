@@ -12,12 +12,7 @@ Recently, we focused on the big trouble that smartphones are having in urban nav
 ![录制_2023_11_01_10_56_33_516](https://github.com/Jia-le-wang/Useful-tools-and-software-for-high-precision-positioning-of-low-cost-smart-devices/assets/49149409/14b6b590-676f-40d5-a11a-d99319bad58e)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The following is an experiment conducted in Beijing's harsh urban canyon environment, where the green dots represent LOS satellites and the red dots represent NLOS satellites. Because of the tall and dense buildings on both sides, there are only a few satellite signals available. Through the 3DMA PPP algorithm, the positioning accuracy of the Xiaomi Mi8 smartphone and the low-cost septentrio receiver has been improved by more than 50%.
 
-![Honeycam 2023-12-04 13-52-18 (2)](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/29d0c963-2f36-4709-b5b5-960f71ea4450)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Our latest powerful adaptive zero-velocity detection algorithm can fully support various pedestrian gait patterns such as walking, running, elevators, escalators, and up and down stairs.The following is a case of pedestrian 3D positioning, where high-precision indoor-outdoor seamless positioning is achieved by combining 3DMA PPP algorithm with foot-mounted inertial positioning:
 
 ![录制_2023_11_04_22_46_42_514](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/8489d172-cda1-4df3-aa02-a19cd8d5b243)
