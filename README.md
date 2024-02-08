@@ -6,8 +6,7 @@ Here, we will share some datasets and scripting tools related to high-precision 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 After installing the software, check the three buttons "Location", "Measurement" and "Rinex OBS" as shown in the figure below (left), and click "START LOG" (right) to start recording GNSS data. Then, in the folder directory of your Android phone, you can find the "gnss_log" folder, which contains the raw GNSS log, Fix log, and converted rinex files. The IMU data will be updated after the synchronization procedure is completed. Enjoy it!
 
-            ![image](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/ac732ab3-b041-4fa1-bb3d-d95fc6be5a2f) 
-![image](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/0c4dc693-369f-4b71-9110-a8bbf2238d36)
+![image](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/ac732ab3-b041-4fa1-bb3d-d95fc6be5a2f)   ![image](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/0c4dc693-369f-4b71-9110-a8bbf2238d36)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Recently, we focused on the big trouble that smartphones are having in urban navigation! Inaccurate urban positioning has been an ongoing problem with satellite navigation, prompting many attempts at solutions and revealing deep-rooted difficulties. Using an accurate 3D building model database, asymmetric NLOS propagation is modeled to correct for NLOS pseudo-range errors, thereby reducing the positioning error of the phone by more than 50%. We recommend that researchers consider using the 3D city model in the future, and here is an experimental case to demonstrate the powerful advantages of 3DMA GNSS:
