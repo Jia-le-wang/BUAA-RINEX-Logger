@@ -1,4 +1,4 @@
-# Useful tools and software for high-precision positioning of low-cost smart devices
+# Useful tools and software for high-precision positioning of low-cost smartphone
 
 Here, we will share some datasets and scripting tools related to high-precision GNSS positioning, integrated navigation, and indoor positioning to reduce obstacles for interested researchers working with this data. These studies focus on smartphones, wearables and autonomous driving. The BUAA RINEX Logger, developed by Professor Shi Chuang's team at Beihang University, is a software that supports the acquisition and recording of GNSS observations across the constellation and at all frequencies. The BUAA RINEX Logger supports the latest quad-band smartphone data logging and is compatible with Android 8.0 and above. The current support for recording data frequency is as follows:
 
