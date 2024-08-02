@@ -1,8 +1,9 @@
 # Useful tools and software for high-precision positioning of low-cost smartphone
 
-Here, we will share some datasets and scripting tools related to high-precision GNSS positioning, integrated navigation, and indoor positioning to reduce obstacles for interested researchers working with this data. These studies focus on smartphones, wearables and autonomous driving. The BUAA RINEX Logger, developed by Professor Shi Chuang's team at Beihang University, is a software that supports the acquisition and recording of GNSS observations across the constellation and at all frequencies. The BUAA RINEX Logger supports the latest quad-band smartphone data logging and is compatible with Android 8.0 and above. The current support for recording data frequency is as follows:
+Here, we will share some datasets and scripting tools related to high-precision GNSS positioning, integrated navigation, and indoor positioning to reduce obstacles for interested researchers working with this data. These studies focus on smartphones, wearables and autonomous driving. The BUAA RINEX Logger, developed by Professor Shi Chuang's team at Beihang University, is a software that supports the acquisition and recording of GNSS observations across the constellation and at all frequencies. The BUAA RINEX Logger supports the latest multi-frequency smartphone data logging and is compatible with Android 8.0 and above. The current support for recording data frequency is as follows:
 
-![image](https://github.com/Jia-le-wang/Useful-tools-and-software-for-high-precision-positioning-of-low-cost-smart-devices/assets/49149409/84746908-2f25-492b-8acf-0617dd897ccd)
+![GNSS频率分布(1)](https://github.com/user-attachments/assets/9f601580-2598-44c1-9e7f-44a3fb0e52de)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 After installing the software, check the three buttons "Location", "Measurement" and "Rinex OBS" as shown in the figure below (left), and click "START LOG" (right) to start recording GNSS data. Then, in the folder directory of your Android phone, you can find the "gnss_log" folder, which contains the raw GNSS log, Fix log, and converted rinex files. The IMU data will be updated after the synchronization procedure is completed. Enjoy it!
 
@@ -15,7 +16,7 @@ Recently, we focused on the big trouble that smartphones are having in urban nav
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Our latest powerful adaptive zero-velocity detection algorithm can fully support various pedestrian gait patterns such as walking, running, elevators, escalators, and up and down stairs.The following is a case of pedestrian 3D positioning, where high-precision indoor-outdoor seamless positioning is achieved by combining 3DMA PPP algorithm with foot-mounted inertial positioning:
+Our latest powerful Foot-mounted Inertial Pedestrian Position System (FIPPS) can fully support various pedestrian gait patterns such as walking, running, elevators, escalators, and up and down stairs.The following is a case of pedestrian 3D positioning, where real-time high-precision indoor-outdoor seamless positioning is achieved by combining 3DMA PPP algorithm with foot-mounted inertial positioning:
 
 ![录制_2023_11_04_22_46_42_514](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/8489d172-cda1-4df3-aa02-a19cd8d5b243)
 
