@@ -21,5 +21,31 @@ Our latest powerful Foot-mounted Inertial Pedestrian Position System (FIPPS) can
 ![录制_2023_11_04_22_46_42_514](https://github.com/Jia-le-wang/BUAA-RINEX-Logger/assets/49149409/8489d172-cda1-4df3-aa02-a19cd8d5b243)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Citation
+
+If you find this repository useful in your research or development, please consider citing our work:
+
+1. Wang, Jiale, et al. "Instantaneous sub-meter level precise point positioning of low-cost smartphones." *NAVIGATION: Journal of the Institute of Navigation* 70.4 (2023).
+2. Wang, Jiale, et al. "Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer." *IEEE Internet of Things Journal* (2023).
+
+Here is the BibTeX for citing these papers:
+
+@article{wang2023instantaneous,
+title={Instantaneous sub-meter level precise point positioning of low-cost smartphones},
+author={Wang, Jiale and others},
+journal={NAVIGATION: Journal of the Institute of Navigation},
+volume={70},
+number={4},
+year={2023}
+}
+
+@article{wang2023seamless,
+title={Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer},
+author={Wang, Jiale and others},
+journal={IEEE Internet of Things Journal},
+year={2023}
+}
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As we refine the tools, we will continue to upload more useful processing scripts, datasets, and software to the GITHUB repository. We hope that our work can provide some references for relevant interested researchers in pedestrian navigation, indoor and outdoor seamless positioning, and integrated navigation.
 If you have any questions during use, please do not hesitate to contact: wangjialea@gmail.com
