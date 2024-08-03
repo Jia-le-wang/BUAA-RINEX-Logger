@@ -25,7 +25,7 @@ Our latest powerful Foot-mounted Inertial Pedestrian Position System (FIPPS) can
 
 If you find this repository useful in your research or development, please consider citing our work:
 
-1. Wang, Jiale, et al. "Instantaneous sub-meter level precise point positioning of low-cost smartphones." *NAVIGATION: Journal of the Institute of Navigation* 70.4 (2023).
+1. Wang, Jiale, et al. "Instantaneous sub-meter level precise point positioning of low-cost smartphones." *NAVIGATION: Journal of the Institute of Navigation* 70.4 (2023). DOI：https://doi.org/10.33012/navi.597
 2. Wang, Jiale, et al. "Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer." *IEEE Internet of Things Journal* (2023).
 
 Here is the BibTeX for citing these papers:
