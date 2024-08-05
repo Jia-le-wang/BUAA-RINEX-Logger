@@ -25,8 +25,8 @@ Our latest powerful Foot-mounted Inertial Pedestrian Position System (FIPPS) can
 
 If you find this repository useful in your research or development, please consider citing our work:
 1. Wang J, Shi C, Zheng F, et al. "Multi-frequency smartphone positioning performance evaluation: insights into A-GNSS PPP-B2b services and beyond." Satellite Navigation, 2024, 5(1):25. DOI:https://doi.org/10.1186/s43020-024-00146-5
-2. Wang, Jiale, et al. "Instantaneous sub-meter level precise point positioning of low-cost smartphones." *NAVIGATION: Journal of the Institute of Navigation* 70.4 (2023). DOI：https://doi.org/10.33012/navi.597
-3. Wang, Jiale, et al. "Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer." *IEEE Internet of Things Journal* (2023). DOI: https://doi.org/10.1109/JIOT.2023.3337393
+2. Wang J, Zheng F, Hu Y, et al. "Instantaneous Sub-meter Level Precise Point Positioning of Low-Cost Smartphones." NAVIGATION: Journal of the Institute of Navigation, 2023, 70(4). DOI：https://doi.org/10.33012/navi.597
+3. Wang J, Shi C, Xia M, et al. "Seamless Indoor–Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3-D Map/Barometer." IEEE Internet of Things Journal, 2024, 11(7):13051-13069. DOI: https://doi.org/10.1109/JIOT.2023.3337393
 
 Here is the BibTeX for citing these papers:
 
