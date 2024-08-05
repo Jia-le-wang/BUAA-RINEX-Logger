@@ -58,6 +58,7 @@ Here is the BibTeX for citing these papers:
   pages={13051--13069},
   year={2024}
 }
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As we refine the tools, we will continue to upload more useful processing scripts, datasets, and software to the GITHUB repository. We hope that our work can provide some references for relevant interested researchers in pedestrian navigation, indoor and outdoor seamless positioning, and integrated navigation.
 If you have any questions during use, please do not hesitate to contact: wangjialea@gmail.com
