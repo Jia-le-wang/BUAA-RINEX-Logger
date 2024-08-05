@@ -24,28 +24,40 @@ Our latest powerful Foot-mounted Inertial Pedestrian Position System (FIPPS) can
 ## Citation
 
 If you find this repository useful in your research or development, please consider citing our work:
-
-1. Wang, Jiale, et al. "Instantaneous sub-meter level precise point positioning of low-cost smartphones." *NAVIGATION: Journal of the Institute of Navigation* 70.4 (2023). DOI：https://doi.org/10.33012/navi.597
-2. Wang, Jiale, et al. "Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer." *IEEE Internet of Things Journal* (2023). DOI: https://doi.org/10.1109/JIOT.2023.3337393
+1. Wang J, Shi C, Zheng F, et al. "Multi-frequency smartphone positioning performance evaluation: insights into A-GNSS PPP-B2b services and beyond." Satellite Navigation, 2024, 5(1):25. DOI:https://doi.org/10.1186/s43020-024-00146-5
+2. Wang, Jiale, et al. "Instantaneous sub-meter level precise point positioning of low-cost smartphones." *NAVIGATION: Journal of the Institute of Navigation* 70.4 (2023). DOI：https://doi.org/10.33012/navi.597
+3. Wang, Jiale, et al. "Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer." *IEEE Internet of Things Journal* (2023). DOI: https://doi.org/10.1109/JIOT.2023.3337393
 
 Here is the BibTeX for citing these papers:
 
+@article{wang2024multifrequency,
+  title={Multi-frequency smartphone positioning performance evaluation: insights into A-GNSS PPP-B2b services and beyond},
+  author={Wang, Jiale and Shi, Chuang and Zheng, Fei and others},
+  journal={Satellite Navigation},
+  volume={5},
+  number={1},
+  pages={25},
+  year={2024}
+}
+
 @article{wang2023instantaneous,
-title={Instantaneous sub-meter level precise point positioning of low-cost smartphones},
-author={Wang, Jiale and others},
-journal={NAVIGATION: Journal of the Institute of Navigation},
-volume={70},
-number={4},
-year={2023}
+  title={Instantaneous Sub-meter Level Precise Point Positioning of Low-Cost Smartphones},
+  author={Wang, Jiale and Zheng, Fei and Hu, Ying and others},
+  journal={NAVIGATION: Journal of the Institute of Navigation},
+  volume={70},
+  number={4},
+  year={2023}
 }
 
-@article{wang2023seamless,
-title={Seamless Indoor-Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3D Map/Barometer},
-author={Wang, Jiale and others},
-journal={IEEE Internet of Things Journal},
-year={2023}
+@article{wang2024seamless,
+  title={Seamless Indoor–Outdoor Foot-Mounted Inertial Pedestrian Positioning System Enhanced by Smartphone PPP/3-D Map/Barometer},
+  author={Wang, Jiale and Shi, Chuang and Xia, Ming and others},
+  journal={IEEE Internet of Things Journal},
+  volume={11},
+  number={7},
+  pages={13051--13069},
+  year={2024}
 }
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As we refine the tools, we will continue to upload more useful processing scripts, datasets, and software to the GITHUB repository. We hope that our work can provide some references for relevant interested researchers in pedestrian navigation, indoor and outdoor seamless positioning, and integrated navigation.
 If you have any questions during use, please do not hesitate to contact: wangjialea@gmail.com
